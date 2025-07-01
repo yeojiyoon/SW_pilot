@@ -28,6 +28,6 @@ public class StringClass {
 		
 		musicLibary.delSong("시간의 수평선");
 		
-		player.nowPlaying(musicLibary.findSongForTarget("사람"));
+		//player.nowPlaying(musicLibary.findSongForTarget("사람"));
 	}
 }
